@@ -1,8 +1,12 @@
-# TpGesperBibliothequeClasse
-Présentation du projet : l'objectif est de réaliser une bibliotheque de classe afin de l'utiliser dans une application console. 
+# GesperBibliotheque
 
 Les outils mis en oeuvre :
-* visual studio
+- visual studio
+- git
+-c#
+
+L'objectif de ce projet est de réaliser une bibliotheque de classe afin de l'utiliser dans une application console. 
+
 
 Tout d'abord la création des classes qui sont liées à la base de données GESPER :
 
@@ -10,7 +14,7 @@ Tout d'abord la création des classes qui sont liées à la base de données GES
 
 La bibliothèque de classe :
 
-![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/DiagrammeDeClasse.png)
+<a href='https://www.casimages.com/i/190409105423496630.png.html' target='_blank' title='Mon image'><img src='https://nsa40.casimages.com/img/2019/04/09/190409105423496630.png' border='0' alt='Mon image' /></a>
 
 Dans l'explorateur de solutions :
 
