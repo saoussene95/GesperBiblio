@@ -18,10 +18,10 @@ La bibliothèque de classe :
 
 Dans l'explorateur de solutions :
 
-![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/BiblioClasse.PNG)
+<a href='https://www.casimages.com/i/190409105556581325.png.html' target='_blank' title='Mon image'><img src='https://nsa40.casimages.com/img/2019/04/09/190409105556581325.png' border='0' alt='Mon image' /></a>
 
 On va ensuite ajouter la DLL à notre application console comme on peut le voir dans les références :
 
-![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/Reference.PNG)
+<a href='https://www.casimages.com/i/190409105617454072.png.html' target='_blank' title='Mon image'><img src='https://nsa40.casimages.com/img/2019/04/09/190409105617454072.png' border='0' alt='Mon image' /></a>
 
-On peut maintenant utiliser la bibliothèque de classe sans recréer de classe dans notre projet.
+Puis, on peut maintenant utiliser la bibliothèque de classe sans recréer de classe dans notre projet.
