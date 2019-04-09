@@ -6,7 +6,7 @@ Les outils mis en oeuvre :
 
 Tout d'abord la création des classes qui sont liées à la base de données GESPER :
 
-![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/BdGesper.png)
+!<a href='https://www.casimages.com/i/190409105328352272.png.html' target='_blank' title='Mon image'><img src='https://nsa40.casimages.com/img/2019/04/09/190409105328352272.png' border='0' alt='Mon image' /></a>
 
 La bibliothèque de classe :
 
